@@ -1,0 +1,17 @@
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\bin\Debug\Camera_capture.exe.config
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\bin\Debug\Camera_capture.exe
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\bin\Debug\Camera_capture.pdb
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\bin\Debug\AForge.dll
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\bin\Debug\AForge.Video.dll
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\bin\Debug\AForge.xml
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\bin\Debug\AForge.Video.xml
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\obj\Debug\Camera_capture.csproj.AssemblyReference.cache
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\obj\Debug\Camera_capture.Form1.resources
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\obj\Debug\Camera_capture.Properties.Resources.resources
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\obj\Debug\Camera_capture.csproj.GenerateResource.cache
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\obj\Debug\Camera_capture.csproj.CoreCompileInputs.cache
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\obj\Debug\Camera_capture.csproj.CopyComplete
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\obj\Debug\Camera_capture.exe
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Camera_capture\Camera_capture\obj\Debug\Camera_capture.pdb

@@ -1,0 +1,16 @@
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\bin\Debug\net6.0-windows\Latihan1_Kalkulator.exe
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\bin\Debug\net6.0-windows\Latihan1_Kalkulator.deps.json
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\bin\Debug\net6.0-windows\Latihan1_Kalkulator.runtimeconfig.json
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\bin\Debug\net6.0-windows\Latihan1_Kalkulator.dll
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\bin\Debug\net6.0-windows\Latihan1_Kalkulator.pdb
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\Latihan1_Kalkulator.Form1.resources
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\Latihan1_Kalkulator.csproj.GenerateResource.cache
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\Latihan1_Kalkulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\Latihan1_Kalkulator.AssemblyInfoInputs.cache
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\Latihan1_Kalkulator.AssemblyInfo.cs
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\Latihan1_Kalkulator.csproj.CoreCompileInputs.cache
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\Latihan1_Kalkulator.dll
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\refint\Latihan1_Kalkulator.dll
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\Latihan1_Kalkulator.pdb
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\Latihan1_Kalkulator.genruntimeconfig.cache
+C:\Users\fauza\Desktop\Kuliah\SEMESTER 5\PBKK\Latihan1_Kalkulator\Latihan1_Kalkulator\obj\Debug\net6.0-windows\ref\Latihan1_Kalkulator.dll
